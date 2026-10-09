@@ -24,11 +24,11 @@ I research **test-time adaptation** and **self-correcting reasoning** in AI mode
 
 ## 🔬 Research
 
-**[Test-time training for Tiny Recursive Models on ARC-AGI-2](https://github.com/Berekety1/trm-test-time-training)** · [poster](https://github.com/Berekety1/trm-test-time-training/blob/main/docs/poster.pdf)
-I trained a TRM checkpoint with the ARC-AGI-2 evaluation tasks held out, then compared full fine-tuning and LoRA for adapting it to tasks it had never seen. LoRA underfits, with a loss about 70× higher. Full fine-tuning reaches **4.07% pass@2** on the 120 held-out tasks; the original TRM scores 7.80%, but it saw these tasks during pre-training. Presented at the 10th GIST AX-Challenge (2026).
+- **[Test-time training for Tiny Recursive Models on ARC-AGI-2](https://github.com/Berekety1/trm-test-time-training)** · [📄 poster](https://github.com/Berekety1/trm-test-time-training/blob/main/docs/poster.pdf)<br>
+  I trained a TRM checkpoint with the ARC-AGI-2 evaluation tasks held out, then compared full fine-tuning and LoRA for adapting it to tasks it had never seen. LoRA underfits, with a loss about 70× higher. Full fine-tuning reaches **4.07% pass@2** on the 120 held-out tasks; the original TRM scores 7.80%, but it saw these tasks during pre-training. Presented at the 10th GIST AX-Challenge (2026).
 
-**Iterative self-correction in language models** (undergraduate thesis, in progress)
-A confidence ("doubt") head that predicts whether an LLM's answer is correct and decides when to revise it, with revision strength scaled to the model's uncertainty.
+- **Iterative self-correction in language models** (undergraduate thesis, in progress)<br>
+  A confidence ("doubt") head that predicts whether an LLM's answer is correct and decides when to revise it, with revision strength scaled to the model's uncertainty.
 
 ## 🛠️ Projects
 
