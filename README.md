@@ -1,10 +1,8 @@
 # Hi, I'm Bereket 👋
 
-**EECS undergraduate at [GIST](https://www.gist.ac.kr/en/) · Undergraduate Research Intern at the GIST Data Science Lab (advisor: Prof. Sundong Kim)**
+**EECS undergraduate at [GIST](https://www.gist.ac.kr/en/) · Undergraduate Research Intern at the GIST Data Science Lab (advisor: [Prof. Sundong Kim](https://sundong.kim/))**
 
 I research **test-time adaptation** and **self-correcting reasoning** in AI models, using the [ARC-AGI](https://arcprize.org/) benchmark as my testbed. I also build and ship full-stack AI products.
-
-🔍 Looking for an **AI/ML internship** for winter 2026–27.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
