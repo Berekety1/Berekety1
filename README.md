@@ -43,6 +43,6 @@ I research **test-time adaptation** and **self-correcting reasoning** in AI mode
 
 ## 📫 Contact
 
-[bereketyimolal8991@gmail.com](mailto:bereketyimolal8991@gmail.com) · [habeshasphere.com](https://habeshasphere.com) · Gwangju, South Korea
+🌐 [berekety1.github.io](https://berekety1.github.io) · [bereketyimolal8991@gmail.com](mailto:bereketyimolal8991@gmail.com) · [habeshasphere.com](https://habeshasphere.com) · Gwangju, South Korea
 
 Languages: Amharic (native) · English (fluent) · Korean (elementary)
